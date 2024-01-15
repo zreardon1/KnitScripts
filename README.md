@@ -1,2 +1,2 @@
 # KnitScripts
-repo to house KnitScripts python program script
+KnitScripts.py is a simple python program script and GUI that includes the KnitGauge and YarnConverter functions. The KnitGauge function allows a user to obtain a new stitch or row count given a yarn with a different stitch/row count from that used in the original pattern. The YarnConverter functions allows a user to determine the correct needle size to use when working with two strands of yarn with varying weights/lengths.
